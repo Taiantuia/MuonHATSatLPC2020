@@ -1,5 +1,4 @@
 # MuonHATSatLPC2020
-MuonHATSatLPC2020
 To run this HTAS, the following packages are required:
 * uproot
 * awkward
