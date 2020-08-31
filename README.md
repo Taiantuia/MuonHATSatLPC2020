@@ -1,10 +1,9 @@
 # MuonHATSatLPC2020
-To run this HTAS, the following packages are required:
+To run this HTAS, it need python3 and the following packages are required:
 * uproot
 * awkward
 * ROOT
 * NumPy
-* Math
 * uproot-methods
 * Jupyter Notebook
 
