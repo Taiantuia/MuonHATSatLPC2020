@@ -1,2 +1,2 @@
-# MuonHATSatLPC2020-test
+# MuonHATSatLPC2020
 MuonHATSatLPC2020
