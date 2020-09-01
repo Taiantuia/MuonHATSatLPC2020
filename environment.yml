@@ -11,3 +11,4 @@ dependencies:
     - jupyter
     - uproot-methods
     - root=6.20
+    - scipy
