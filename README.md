@@ -6,6 +6,7 @@ To run this HTAS, it need python3 and the following packages are required:
 * NumPy
 * uproot-methods
 * matplotlib
+* scipy
 * Jupyter Notebook
 
 Note: MuonHATSatLPC2020 doesn't need CMSSW to run.<br>
