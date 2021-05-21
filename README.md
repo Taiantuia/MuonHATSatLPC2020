@@ -1,5 +1,5 @@
 # MuonHATSatLPC2020
-To run this HTAS, python3 and the following packages are required:
+To run this HATS, python3 and the following packages are required:
 * uproot
 * awkward
 * ROOT
